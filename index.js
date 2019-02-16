@@ -99,8 +99,6 @@ class CDGContext {
 
     // copy to destination canvas
     this.userCanvasCtx.drawImage(this.canvas, 0, 0, this.WIDTH, this.HEIGHT)
-
-    }
   }
 }
 
